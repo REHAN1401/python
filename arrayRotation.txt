@@ -1,0 +1,2 @@
+Reversed string 1: dlroW olleH
+Reversed string 2: taerg si nohtyP
